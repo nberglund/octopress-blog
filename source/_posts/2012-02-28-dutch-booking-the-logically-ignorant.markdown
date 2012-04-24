@@ -5,7 +5,7 @@ date: 2012-02-28 11:15
 comments: true
 categories: philosophy decision-theory bayesianism
 ---
-[Last time](http://seamusbradley.nfshost.com/blog/blog/2012/02/22/decision-theory-for-the-logically-ignorant/), 
+[Last time](/blog/2012/02/22/decision-theory-for-the-logically-ignorant), 
 we saw that logical omniscience is difficult to get rid of. 
 We saw that once you "go syntactic" it becomes difficult to
 stop your set of beliefs being infinite. 

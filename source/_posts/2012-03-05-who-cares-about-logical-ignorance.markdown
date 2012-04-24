@@ -6,9 +6,9 @@ comments: true
 categories: philosophy decision-theory bayesianism
 ---
 So far, I have
-[wondered how to model logical ignorance](blog/2012/02/22/decision-theory-for-the-logically-ignorant/)
+[wondered how to model logical ignorance](/blog/2012/02/22/decision-theory-for-the-logically-ignorant)
 and I have shown how to 
-[Dutch book the logically ignorant](blog/2012/02/28/dutch-booking-the-logically-ignorant/).
+[Dutch book the logically ignorant](/blog/2012/02/28/dutch-booking-the-logically-ignorant).
 But who *cares* about logical ignorance?
 Surely logical omniscience is a norm of rational belief:
 what possible reason could you have for believing logically equivalent propositions to
