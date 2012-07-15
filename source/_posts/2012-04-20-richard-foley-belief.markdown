@@ -6,7 +6,7 @@ comments: true
 categories:  philosophy, epistemology, degrees-of-belief-book
 ---
 Here, finally, is the first of a series of posts on the substantive chapters of
-_[Degrees of Belief](/blog/2012/04/06/huber-and-schmidt-petri-degrees-of-belief)_.
+_[Degrees of Belief](/blog/2012/04/06/huber-and-schmidt-petri-degrees-of-belief/)_.
 First up is Richard Foley's chapter on "Belief, Degrees of Belief, 
 and the Lockean Thesis".
 This is the first of three chapters on the relationship between

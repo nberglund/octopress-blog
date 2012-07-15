@@ -20,7 +20,7 @@ But I prefer to make the links shorter.
 So to link to this post I would write the following:
 
 {% codeblock How to link to your own posts %}
-[This](/blog/2012/04/24/how-to-link-to-your-own-blog-posts-in-octopress) is a working link
+[This](/blog/2012/04/24/how-to-link-to-your-own-blog-posts-in-octopress/) is a working link
 {% endcodeblock %}
 
 Note that the link starts with `/blog` 

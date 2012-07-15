@@ -22,3 +22,7 @@ google plus should be available on the right there,
 and my email is on my main site.
 In fact, you can also email me at: 
 `blog` at the current domain name.
+I've noticed that sometimes the domain name
+reverts to the `nfshost` one.
+Not that domain name.
+Email me at `seamusbradley.net`.
