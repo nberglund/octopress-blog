@@ -3,7 +3,7 @@ layout: post
 title: "Richard Foley: Belief, Degrees of Belief and the Lockean Thesis"
 date: 2012-04-20 15:51
 comments: true
-categories:  philosophy, epistemology, degrees-of-belief-book
+categories:  philosophy epistemology degrees-of-belief-book
 ---
 Here, finally, is the first of a series of posts on the substantive chapters of
 _[Degrees of Belief](/blog/2012/04/06/huber-and-schmidt-petri-degrees-of-belief/)_.

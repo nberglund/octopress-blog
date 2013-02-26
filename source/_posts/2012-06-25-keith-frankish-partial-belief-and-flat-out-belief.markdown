@@ -3,7 +3,7 @@ layout: post
 title: "Keith Frankish: Partial Belief and Flat-Out Belief"
 date: 2012-06-25 14:26
 comments: true
-categories:  philosophy, epistemology, degrees-of-belief-book
+categories:  philosophy epistemology degrees-of-belief-book
 ---
 It's been a while, but let's get back to talking about the
 _[Degrees of Belief](/blog/categories/degrees-of-belief-book/)_ book.

@@ -3,7 +3,7 @@ layout: post
 title: "James Hawthorne: The Lockean Thesis and the Logic of Belief"
 date: 2012-04-24 16:03
 comments: true
-categories:  philosophy, epistemology, degrees-of-belief-book
+categories:  philosophy epistemology degrees-of-belief-book
 ---
 It's time for another post on Huber and Schmidt-Petri's
 _Degrees of Belief_ book!

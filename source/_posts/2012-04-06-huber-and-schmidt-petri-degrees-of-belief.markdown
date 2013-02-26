@@ -3,7 +3,7 @@ layout: post
 title: "Huber and Schmidt-Petri: Degrees of Belief"
 date: 2012-04-06 18:23
 comments: true
-categories: philosophy, epistemology, degrees-of-belief-book
+categories: philosophy epistemology degrees-of-belief-book
 ---
 This is the first in what I hope to be a series of posts on the book
 [_Degrees of Belief_](http://www.springer.com/philosophy/book/978-1-4020-9197-1)

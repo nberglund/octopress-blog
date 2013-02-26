@@ -3,7 +3,7 @@ layout: post
 title: "The fresh install blues"
 date: 2012-04-30 16:08
 comments: true
-categories: linux, octopress
+categories: linux octopress
 ---
 I recently installed Ubuntu 12.04.
 I decided to do a fresh install, 

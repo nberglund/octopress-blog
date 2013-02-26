@@ -3,7 +3,7 @@ layout: post
 title: "Obvious productivity tips: notebook"
 date: 2012-05-10 12:03
 comments: true
-categories: academia, productivity
+categories: academia productivity
 ---
 Here is a really obvious tip, 
 but one that I've found extremely useful.

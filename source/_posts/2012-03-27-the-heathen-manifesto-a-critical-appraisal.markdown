@@ -3,7 +3,7 @@ layout: post
 title: "The Heathen Manifesto: A Critical Appraisal"
 date: 2012-03-27 12:57
 comments: true
-categories: philosophy, heathenism
+categories: philosophy heathenism
 ---
 Recently, Julian Baggini's 
 [Heathen Manifesto](http://www.guardian.co.uk/commentisfree/2012/mar/25/atheists-please-read-heathen-manifesto)

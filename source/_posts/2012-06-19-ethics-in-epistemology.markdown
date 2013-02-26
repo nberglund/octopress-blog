@@ -3,7 +3,7 @@ layout: post
 title: "Ethics in epistemology"
 date: 2012-06-19 16:20
 comments: true
-categories: philosophy, epistemology
+categories: philosophy epistemology
 ---
 I've recently been thinking about a number of ways that debates and
 concepts in ethics might be of interest to epistemologists.

@@ -3,7 +3,7 @@ layout: post
 title: "Lewis' semantics of counterfactuals entails determinism"
 date: 2012-03-19 18:14
 comments: true
-categories: philosophy, counterfactuals
+categories: philosophy counterfactuals
 ---
 So here's an idea I had a while ago.
 I wrote about this on 

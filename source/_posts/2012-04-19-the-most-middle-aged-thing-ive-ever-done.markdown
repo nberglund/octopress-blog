@@ -3,7 +3,7 @@ layout: post
 title: "The most middle-aged thing I've ever done"
 date: 2012-04-19 17:39
 comments: true
-categories: self, music, tv
+categories: self music tv
 ---
 Last night we watched an episode of Lewis.
 One of the subplots involved an amateur orchestra.
