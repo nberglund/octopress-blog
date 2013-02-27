@@ -1,3 +1,13 @@
+## A rude assembly: an Octopress blog
+
+This repo is basically my blog.
+The blog is housed [over here](http://www.seamusbradley.net/blog/).
+Hey, I guess you could open issues on here instead of commenting on the blog.
+There aren't comments on the blog.
+There doesn't need to be a readme here since the blog has an 
+[About page](http://www.seamusbradley.net/blog/about/).
+The remainder of this readme is some information about Octopress.
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
