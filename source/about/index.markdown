@@ -7,8 +7,8 @@ sharing: true
 footer: true
 ---
 This is the blog of Seamus Bradley,
-a philosophy PhD student at the London School of
-Economics.
+a postdoctoral research fellow at the 
+[MCMP](http://www.mcmp.philosophie.uni-muenchen.de/index.html).
 "A rude assembly" is an anagram of my name.
 My "professional" website (where I keep my CV,
 my papers and so on) is accessible through the
@@ -20,6 +20,9 @@ There are no "comment" facilities on the blog.
 If you want to talk about a post, my twitter and
 google plus should be available on the right there,
 and my email is on my main site.
+The blog also has its own repo over at
+[github](https://github.com/scmbradley/octopress-blog)
+and I guess you could also leave "issues" there instead of commenting here.
 In fact, you can also email me at: 
 `blog` at the current domain name.
 I've noticed that sometimes the domain name
