@@ -1,0 +1,38 @@
+Uh oh.
+I've been thinking about Elga's 
+[*Subjective Probabilities Should Be Sharp*](http://www.princeton.edu/~adame/papers/sharp/elga-subjective-probabilities-should-be-sharp.pdf)
+again.
+So [like I said](/blog/2013/03/05/static-and-dynamic-norms-versus-preferring-and-not-dispreferring/),
+I think there's something odd with Elga's argument. 
+But today I want to puzzle more about the general argumentative strategy.
+
+Elga's argument can be summarised as follows:
+
+ - Imprecise decision rules have intuitively bad decision theoretic consequences
+ - Therefore, subjective probabilities should precise
+
+The [paper](http://www.seamusbradley.net/Papers/elga.pdf)
+that Katie Steele and I have been working on is basically targeting the first
+point.
+In this post I am more concerned with the move from the first to the second,
+so I'm just going to grant Elga the first point for now.
+
+It seems to me that if Elga's argument were successful,
+ an analogous argument could be made that subjective probabilities should be
+*trivial*.
+Call a probability trivial if it assigns only 0 and 1 to events.
+
+Here's the idea.
+You are offered a sequence of bets on whether a fair coin will land heads or tails.
+The bets are at even odds.
+You have belief one half that the coin will land heads.
+Your utility is linear in money.
+(This assumption does two distinct things: rules out risk aversion, and guarantees constant marginal utility of money.
+That's a topic for another post)
+You are therefore indifferent between betting on heads or on tails for each toss
+(assuming, that is, the normal expected utility framework for how beliefs inform decisions).
+On average, you'll break even.
+
+This is a bad outcome if you compare it to an agent who has the right sort of trivial belief.
+Consider the agent who has belief 1 in heads for all the tosses that land heads,
+and belief 1 in tails for all the tosses that land tails.
